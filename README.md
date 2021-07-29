@@ -17,11 +17,17 @@ To read in a regular window:
 vi README.md # will open vim in the way I wrote it
 ```
 
+To read in a new window from 'less':
+
+```bash
+chmod +x exec_shell.sh
+./exec_shell.sh # will open in a new tab with 'less'
+
 To read in a nice window, do a:
 
 ```bash
 pip install -r requirements.txt
-chmod +x exec.sh
+chmod +x exec_window.sh
 ./exec.sh # will open README in a nice window on port 5000
 ```
 
@@ -141,9 +147,10 @@ Some of the hierarchical and deterministic parts of Bitcoin rely on their protoc
 
 Start reading my notes from the official "Bitcoin" book by a blockchain programmer. I will most likely add my own notes from external sources, so as not to copy the book like I almost did with these definitions. A lot of these definitions have one formal meaning, so as not to get them confused with what I *think* they are.
 
-1. A General Overview of BTC, Transactions, Storage, and the Protocols
+## 1. A General Overview of BTC, Transactions, Storage, and the Protocols
 
-.. More coming soon
+...
+
 
 ---
 Created by Vlad Usatii @ [youshould.readproduct.com](https://youshould.readproduct.com/)

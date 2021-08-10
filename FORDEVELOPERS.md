@@ -28,4 +28,9 @@ ww3.fromWei(w3.toWei(bankBalance, 'ether'), 'gwei')
 Favorite resources for Web3 development and better dApps:
 
 [A Developer's Introduction to Ethereum](https://ethereum.org/en/developers/tutorials/a-developers-guide-to-ethereum-part-one/)
+
 [Intro to Ethereum](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
+
+[Web3 Docs](https://web3py.readthedocs.io/en/stable/)
+
+[An example of a company using Web3 at Ethereum](https://moralis.io/)

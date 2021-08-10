@@ -1,6 +1,14 @@
 # Crypto for noobs 💰
 
-I learned crypto this summer. In the future, I want to expand and port decentralized solutions for the world to enjoy. Maybe even create a BIP?
+I learned crypto this summer. In the future, I want to expand and port decentralized solutions for the world to enjoy. Maybe even create a BIP or EIP (leaning towards EIP..)?
+
+#### Quick Links For Experienced Developers:
+
+This section is for those who understand the basics. It is a quicklink homepage and review for me as well.
+
+[Ethereum Development](https://github.com/VladUsatii/crypto-notes/blob/main/FORDEVELOPERS.md)
+
+[Downloads For Effective Development](https://github.com/VladUsatii/crypto-notes/blob/main/DOWNLOADS.md)
 
 ## Getting Started
 

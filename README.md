@@ -149,7 +149,32 @@ Start reading my notes from the official "Bitcoin" book by a blockchain programm
 
 ## 1. A General Overview of BTC, Transactions, Storage, and the Protocols
 
-...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---

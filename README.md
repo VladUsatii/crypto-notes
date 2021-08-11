@@ -43,7 +43,13 @@ I made a basic notes document, explaining all the terms and their meanings for B
 
 Did this help? Please ⭐ star and 👀 watch for more documentation and explanations 😊
 
-### 📚 Book Recommendations
+## 📚 Book Definitions
+
+### Shorthand definition of what happens in a cryptocurrency:
+
+Every user gets a unique id. They get two: a public and a private. A private is used to transfer large JSON headers and attach the private id to the JSON header of the coin. The transactions between users is then noted on a ledger called a block and attached to the blockchain. The only problem with this is that, if there were no blocks, the latency between sending a transaction and recieving it would be very high and it would use a lot of computational gas to send these indiv. transactions. We attach large amounts of transactions to the block, where a miner must produce a new block in order to start putting transactions on a new block. Then, the old block is attached to the chain of blocks, each referencing their parent, and the chain continues. Then, each computer holds the updated chain number and unique hex codes of the blocks. With these unique codes, it can be verified that a user is up-to-date with the largest chain and the general consensus is met to continue growing the chain. A public key is the key you use to send transactions to somebody. This attaches the private id of the user to the header and removes your id from the header.
+
+So how does a miner produce a new block? Couldn't there simply be replay attacks on the chain? The answer is... no. There are systems in place to prevent this. Most used is the proof-of-work algorithm. No matter the difficulty of the puzzle to crack the newest block value, each user must expend brute-force computational gas in order to discover the new block. This new block is a sha256 address. The miner who finally discovers the new hash is given a reward in Eth or BTC or the c.c. of the system they're on as the entire network checks, verifies, and adopts the new block to the chain. Transactions are now put on the new block. And the reward given to the miners is the equivalent of a government printing money and putting it in circulation, starting with the first reception.
 
 ### What is a cryptocurrency?
 

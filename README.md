@@ -1,4 +1,4 @@
-# Crypto for noobs 💰
+# Crypto notebook
 
 I learned crypto this summer. In the future, I want to expand and port decentralized solutions for the world to enjoy. Maybe even create a BIP or EIP (leaning towards EIP..)?
 
